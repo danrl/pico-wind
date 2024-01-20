@@ -1,0 +1,3 @@
+DEVICE_NAME = "pico-wind"
+WIFI_SSID = "stardust"
+WIFI_PASSWORD = "top secret"
